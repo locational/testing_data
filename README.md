@@ -1,3 +1,5 @@
+# CLOSED: Use a live service instead
+
 # Test data 
 
 Currently works with `fn-prevalence-predictor` and `fn-adaptive-sampling`
